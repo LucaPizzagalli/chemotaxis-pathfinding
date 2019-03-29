@@ -1,0 +1,13 @@
+OGGETTO
+
+1	Sasso
+2	Opocio
+3	Dead Opocio
+4   	Cibo
+5   	Mini Opocio
+6   	Pietra
+
+PRIORITA'AZIONI
+
+2	Opocio (attaccare per fame) o enemy
+3	Dead Opocio (mangiare)
