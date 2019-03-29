@@ -9,6 +9,6 @@ Each agent can find its way across obstacles using chemotaxis and exchanging a b
 
 They can also reproduce and eat themselves, but that's another story
 
-# controls
+## controls
 Press `N` and `M` some times to see cool stuff.
 Also, `AWSD` and `+` `-` allow some sort of rough movement around.
